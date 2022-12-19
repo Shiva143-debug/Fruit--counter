@@ -1,0 +1,40 @@
+.container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+  border: 20px;
+  border-color: #ffd569;
+  border-style: solid;
+}
+.button {
+  background-color: #007bff;
+  color: white;
+  border-radius: 8px;
+  padding: 5px;
+  border-color: white;
+  margin-bottom: 40px;
+  cursor: pointer;
+  outline: none;
+}
+.image {
+  width: 200px;
+}
+.cards-container {
+  display: flex;
+  flex-direction: row;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.span1 {
+  color: #ffd569;
+}
+.span2 {
+  color: #ffd569;
+}
